@@ -7,4 +7,6 @@ pages содержит файлы:
 - с переменными - local_settings.py
 - tests содержит файлы
 - с автотестами для каждой из страниц - test_main_page.py, test_login_page.py, test_register_page.py, test_profile_page.py
+
+
 В основной директории находится файл requirements.txt содержащий все библиотеки , уставновленные для тестирования данного сайты
